@@ -1,0 +1,43 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tmatsuoka\Documents\UnityFunctionTest\Robot Battele_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 2880x1024 at -1280,-124
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.160673 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1fcc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+The tree WaterPlane must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree WaterBasicPlane must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+UnloadTime: 4.595549 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.610003 ms (FindLiveObjects: 0.044579 ms CreateObjectMapping: 0.026619 ms MarkObjects: 0.279664 ms  DeleteObjects: 0.253045 ms)
+
